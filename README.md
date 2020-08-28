@@ -4,7 +4,7 @@
 - 🌱 我正在学习： Flutter
 - 💬 欢迎问我Flutter相关问题
 - 📫 联系方式: zzy0523@gmail.com
-- 📲 Flutter web网站：
+- Flutter web网站：
 <br> [Jetpack](http://jetpack.net.cn) 
 <br> [Ibaozi.cn](Http://jetpack.ibaozi.cn) 
 <br> [File Storage](Http://file.ibaozi.cn/ftp/)
