@@ -20,6 +20,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibaozi-cn&layout=compact)](https://github.com/ibaozi-cn)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ibaozi-cn&repo=RecyclerViewAdapter)](https://github.com/ibaozi-cn/RecyclerViewAdapter)
+
 ![i校长's github stats](https://github-readme-stats.vercel.app/api?username=ibaozi-cn&count_private=true)
 
 <!--
