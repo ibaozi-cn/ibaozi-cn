@@ -18,6 +18,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibaozi-cn&layout=compact&theme=radical)](https://github.com/ibaozi-cn)
 
 ![i校长's github stats](https://github-readme-stats.vercel.app/api?username=ibaozi-cn&count_private=true)
 
