@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 目前工作在： 居理新房
+- 🔭 目前工作在： 永辉
 - 🌱 我正在学习： Flutter
 - 💬 欢迎问我Flutter相关问题
 - 📫 联系方式: zzy0523@gmail.com
