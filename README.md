@@ -7,7 +7,6 @@
 - Flutter web网站：
 <br> [Jetpack](http://jetpack.net.cn) 
 <br> [Ibaozi.cn](Http://jetpack.ibaozi.cn) 
-<br> [File Storage](Http://file.ibaozi.cn/ftp/)
 
 ### 语言 & 工具
 
